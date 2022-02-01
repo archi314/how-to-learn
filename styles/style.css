@@ -81,8 +81,6 @@
   right: 0;
 }
 
-
-
 .description {
   display: flex;
   width: 100%;
@@ -129,8 +127,6 @@
   font-size: 24px;
   font-weight: bold;
 }
-
-
 
 .digits {
   display: flex;
@@ -199,8 +195,6 @@
   margin-bottom: 20px;
 }
 
-
-
 .feynman {
   height: 890px;
   position: relative;
@@ -245,8 +239,6 @@
 .link {
   color: #2f80ed;
 }
-
-
 
 .kaufman {
   position: relative;
@@ -319,8 +311,6 @@
   right: -210px;
 }
 
-
-
 .footer {
   min-height: 350px;
   background-color: #1f1f1f;
@@ -364,7 +354,6 @@
   margin-bottom: 18px;
 }
 
-
 .footer__column_content_info {
   display: flex;
   flex-direction: column;  
@@ -389,7 +378,6 @@
   margin-left: 0;
   padding-left: 0;
 }
-
 
 .footer__column_content_social {
   display: flex;
