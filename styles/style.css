@@ -189,10 +189,6 @@
   padding: 20px 0 0 0;
 }
 
-.table__text:not(:last-child) {
-  margin-bottom: 20px;
-}
-
 .feynman {
   min-height: 890px;
   position: relative;
@@ -290,7 +286,6 @@
 }
 
 .table__text_theme_dark {
-  margin-top: 20px;
   line-height: 1.2;
   font-size: 18px;
   font-weight: normal;
