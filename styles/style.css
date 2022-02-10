@@ -58,6 +58,7 @@
 }
 
 .header__link {
+  color: #2f80ed;
   z-index: 2;
   text-decoration: none;
 }
@@ -227,9 +228,6 @@
   position: absolute;
   right: 48px;
   top: 50%;
-}
-
-.link {
   color: #2f80ed;
 }
 
