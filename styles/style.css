@@ -386,6 +386,7 @@
 }
 
 .khan__container {
+  position: relative;
   width: 80%;
   margin: 105px auto 0 auto;
 }
@@ -515,14 +516,14 @@
   height: 877px;
   top: 0;
   right: -210px;
-  object-fit: cover;
-  background-repeat: no-repeat;
+  background-size: cover;
 }
 
 
 
 
 .resources {
+  position: relative;
   display: flex;
   flex-direction: column;
   align-items: center;
