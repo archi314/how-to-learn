@@ -1,0 +1,16 @@
+.footer__column-link {
+    display: flex;
+    align-items: center;
+    line-height: 30px;
+    color: white;
+    text-decoration: none;
+    list-style: none;
+    margin-left: 0;
+    opacity: 1;
+    transition-timing-function: ease;
+    transition-duration: 0.5s;
+  }
+  
+  .footer__column-link:hover {
+    opacity: 0.5;
+  }

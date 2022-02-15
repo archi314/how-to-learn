@@ -1,0 +1,10 @@
+.logo {
+    width: 183px;
+    opacity: 1;
+    transition-timing-function: ease;
+    transition-duration: 0.5s;
+  }
+
+.logo:hover {
+  opacity: 0.5;
+}
