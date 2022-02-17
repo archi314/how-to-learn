@@ -3,8 +3,7 @@
     z-index: 2;
     text-decoration: none;
     opacity: 1;
-    transition-timing-function: ease;
-    transition-duration: 0.5s;
+    transition: .5s ease;
   }
   
   .header__link:hover {

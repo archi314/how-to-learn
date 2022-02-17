@@ -2,13 +2,12 @@
     display: flex;
     align-items: center;
     line-height: 30px;
-    color: white;
+    color: #FFFFFF;
     text-decoration: none;
     list-style: none;
     margin-left: 0;
     opacity: 1;
-    transition-timing-function: ease;
-    transition-duration: 0.5s;
+    transition: .5s ease;
   }
   
   .footer__column-link:hover {

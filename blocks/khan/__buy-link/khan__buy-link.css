@@ -9,8 +9,7 @@
     display: flex;
     align-self: flex-start;
     opacity: 1;
-    transition-timing-function: ease;
-    transition-duration: 0.5s;
+    transition: .5s ease;
   }
   
   .khan__buy-link:hover {
