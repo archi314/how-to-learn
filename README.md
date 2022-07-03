@@ -9,3 +9,7 @@
 2. CSS,  
 3. Flexbox,  
 4. Организация файлов по БЭМ.
+
+**Ссылка на проект**
+
+* [Ссылка на проект how-to-learn](https://archi314.github.io/how-to-learn/) 
